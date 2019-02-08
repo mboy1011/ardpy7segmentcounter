@@ -20,6 +20,7 @@
 
 4. Follow the Circuit Diagram:
 ![Diagram](https://github.com/mboy1011/ardpy7segmentcounter/blob/master/Counter%20Sketch.png)
+![7 Segement](https://github.com/mboy1011/ardpy7segmentcounter/blob/master/7%20Segment.gif)
 5. Run command:
 	<br><b>Windows</b></br>
 	<code>python fireArd.py</code>
